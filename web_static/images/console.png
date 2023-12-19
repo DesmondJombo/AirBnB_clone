@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <!-- Favicon declaration -->
+    <link rel="logo" href="C:\Users\USER\Documents\Images" type="image.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="path/to/your/apple-touch-icon.png">
+    <title>Your Page Title</title>
+</head>
+<body>
+    <!-- Your HTML content goes here -->
+</body>
+</html>
+
+
